@@ -15,6 +15,9 @@
 ### Project Overview
 This sales performance project provides a comprehensive overview of Maxi.ng Ltd's business from 2019 to 2021. It covers key metrics like total sales, average sales, profitability, and sales contributions by managers and supervisors. The analysis also highlights quarterly sales trends, top-selling product categories, and sales channel performance. This information can help the company identify strengths, opportunities for improvement, and strategic priorities moving forward.
 
+![DataSales screenshot ](https://github.com/user-attachments/assets/5cc803bf-10e0-45d7-b7e5-0fdd15876893)
+
+
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the 'SalesData.csv' file that contains detailed record about each sale made by the company
 
